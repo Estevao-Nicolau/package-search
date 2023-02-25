@@ -1,16 +1,7 @@
-# developer_flutter_test
+## Projeto simples:
 
-A new Flutter project.
+Aplicativo que busca informãções de pacotes no Pub.dev.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ### Como usar:
+ 
+Colocar o nome desejado do pacote, o campo de pesquisa é de preenchimento automático, gera uma lista com o nome semelhante ou que for digitado, e assim que clicar no nome, abre as informações do pacote em um card.
