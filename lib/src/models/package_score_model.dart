@@ -1,9 +1,9 @@
-class PackageScore {
+class PackageInfo {
   final int? maxPoints;
   final int likeCount;
   final double? popularityScore;
 
-  PackageScore(
+  PackageInfo(
     this.maxPoints,
     this.likeCount,
     this.popularityScore,
